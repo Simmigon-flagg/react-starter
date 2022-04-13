@@ -1,11 +1,7 @@
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        React Starter
-      </header>
-    </div>
-  );
-}
+import "./App.css";
+
+const App = () => {
+  return <div>React Starter code</div>;
+};
 
 export default App;
